@@ -1,0 +1,26 @@
+@media (max-width: 660px) {
+    
+    .container {
+    border: 3px solid green;
+    background: 3px solid grey
+        
+    }
+}
+@media (max-width: 480px) {
+    
+    .container {
+    border: 3px soli blue;
+    text-align: center;
+    background: yellow;
+    color: color;
+    }
+}
+@media (max-width: 300px) {
+    
+    .container {
+    border: 3px solid red;
+    background: blue;
+    
+    
+    }
+}
